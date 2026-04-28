@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm Alok Barman
 #### Web Developer
 
-Hi, I’m a professional Web Developer. I build responsive, fast, and SEO-friendly websites using HTML, CSS, JavaScript, Tailwind CSS, and WordPress. Client satisfaction and clean code are my top priorities.
+Hi, I’m a professional Web Developer. I build responsive, fast, and SEO-friendly websites using  HTML, CSS, JavaScript, Tailwind CSS, React, Next.js. Client satisfaction and clean code are my top priorities.
 
 Skills: HTML / CSS / TAILWIND CSS / REACT / JS / NEXT JS
 
